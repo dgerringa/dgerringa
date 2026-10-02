@@ -1,1 +1,2 @@
-# dgerringa
+# Welcome to my profile
+I am Damian, an Electrical and Electronics Engineering student at Hanze University of Applied Sciences. This profile showcases my personal solo projects outside of my curriculum. My goal is to document both the hardware and software development of these projects as thoroughly as possible.
